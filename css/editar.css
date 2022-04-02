@@ -1,0 +1,14 @@
+.formulario {
+    background-color: beige;
+    text-align: center;
+}
+.red {
+    color: red;
+}
+
+label{
+    font-size: 20px;
+}
+#texto{
+    width: 300px;
+}
